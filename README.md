@@ -96,6 +96,7 @@
 | [`docs/03-DATA-OPERATIONS.md`](docs/03-DATA-OPERATIONS.md) | **আসল কাজ** — শেরপুরের ডেটাসেট কীভাবে তৈরি, যাচাই ও জীবন্ত রাখা হবে |
 | [`docs/04-PRIVACY-AND-SAFETY.md`](docs/04-PRIVACY-AND-SAFETY.md) | সম্মতি, ডেটা শ্রেণি, রিটেনশন, টেকডাউন, জরুরি নির্ভুলতার নীতি |
 | [`docs/05-ADR.md`](docs/05-ADR.md) | স্থাপত্য সিদ্ধান্তের রেকর্ড — কী বেছে নেওয়া হলো, কেন, কী ছাড়লাম |
+| [`docs/06-DATA-SOURCES.md`](docs/06-DATA-SOURCES.md) | ডেটা উৎস মূল্যায়ন — OSM, Apify/Google Maps, সরকারি তালিকা: কী মাপা হলো, কী ব্যবহারযোগ্য, কী নয় |
 
 ## ৭. প্ল্যানের এক নজরে সংখ্যা
 
